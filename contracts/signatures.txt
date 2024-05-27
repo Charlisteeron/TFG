@@ -1,0 +1,4 @@
+set(uint256) 		<-> 0x60fe47b1
+nothing()    		<-> 0x448f30a3
+powerOfTwo(uint256) 	<-> 0x2b38ebbb
+paramLength(uint256[])	<-> 0x68e3360e

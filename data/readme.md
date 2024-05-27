@@ -1,0 +1,1 @@
+Aquí se dispone de un subconjunto de transacciones del total, si se desea el completo, ejecutar el script de extracción de transacciones.

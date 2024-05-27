@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "tfg"
+version = "0.1.0"
+description = ""
+authors = ["Popaarm <jcanta02@ucm.es>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+ipykernel = "^6.29.3"
+numpy = "^1.26.4"
+pandas = "^2.2.1"
+requests = "^2.31.0"
+google-cloud-bigquery = "^3.18.0"
+db-dtypes = "^1.2.0"
+matplotlib = "^3.8.3"
+scikit-learn = "^1.4.1.post1"
+web3-input-decoder = "^0.1.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
